@@ -6,7 +6,9 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Checkly
+
+![](https://api.checklyhq.com/v1/badges/checks/d5ae7d7f-74b7-4954-a70b-a6f185d8e6b5?style=flat&theme=default&responseTime=true)
 
 Get started by **creating a new site**.
 
